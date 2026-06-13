@@ -1,0 +1,24 @@
+body{
+    background-color: #ffe4c4;
+    background-image: url("../images/hinh-nen-xe-bmw-4k-can-bang-the-thao-va-sang-trong.jpg");
+    background-size: cover;
+}
+
+
+
+h1{
+    color: aliceblue;
+    
+}
+p{
+    color: #34d2d2;
+    font-size: 20pt;
+    line-height: 1.5;
+    font-family: "Playwrite GB J", cursive;
+    text-align: justify;/* center left right justify*/
+    font-weight: 400;/* 100 200 300 400(normal) 500 600 700(bold) 800 */
+    text-decoration: none ;/*underline line-through overline none*/
+    text-transform: none;/*uppercase lowercase capitalize none*/
+    
+
+}
